@@ -1,2 +1,5 @@
 Postman Docs : https://web.postman.co/workspace/My-Workspace~46d0ecef-f0c5-4ff8-84a3-07f06d2860bd/documentation/31861132-33432ef2-0f57-480d-a973-5b2170670627
 Github URL : https://github.com/pkm0707/Mentor-Assign.git
+Render URL : https://mentor-assign-3qur.onrender.com/
+End-point : https://mentor-assign-3qur.onrender.com/students/getstudents
+End-point : https://mentor-assign-3qur.onrender.com/mentors/getmentors
